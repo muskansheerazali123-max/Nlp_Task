@@ -1,4 +1,4 @@
-**Student name:Muskan Sheeraz aAi
+**Student name:Muskan Sheeraz Ali
 Roll num:BSAI/2k24/67
 Assignment of NLP
 Accademic year 2026
